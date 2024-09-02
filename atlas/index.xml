@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atlas sur Amboise en cartes</title>
-    <link>https://velocamion.github.io/amboise.github.io/atlas/</link>
+    <link>https://velocamion.github.io/amboise/atlas/</link>
     <description>Contenu récent dans Atlas sur Amboise en cartes</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 02 Sep 2024 09:01:11 +0200</lastBuildDate>
-      <atom:link href="https://velocamion.github.io/amboise.github.io/atlas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Sep 2024 13:21:01 +0200</lastBuildDate>
+      <atom:link href="https://velocamion.github.io/amboise/atlas/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

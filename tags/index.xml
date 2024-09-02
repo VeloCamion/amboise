@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags sur Amboise en cartes</title>
-    <link>https://velocamion.github.io/amboise.github.io/tags/</link>
+    <link>https://velocamion.github.io/amboise/tags/</link>
     <description>Contenu récent dans Tags sur Amboise en cartes</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-      <atom:link href="https://velocamion.github.io/amboise.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://velocamion.github.io/amboise/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
