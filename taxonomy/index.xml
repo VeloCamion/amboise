@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taxonomies sur Amboise en cartes</title>
+    <link>https://velocamion.github.io/amboise.github.io/taxonomy/</link>
+    <description>Contenu récent dans Taxonomies sur Amboise en cartes</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 02 Sep 2024 09:01:11 +0200</lastBuildDate>
+      <atom:link href="https://velocamion.github.io/amboise.github.io/taxonomy/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
