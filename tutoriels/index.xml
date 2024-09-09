@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutoriels sur Amboise en cartes</title>
+    <link>https://velocamion.github.io/amboise/tutoriels/</link>
+    <description>Contenu récent dans Tutoriels sur Amboise en cartes</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 09 Sep 2024 15:55:12 +0200</lastBuildDate>
+      <atom:link href="https://velocamion.github.io/amboise/tutoriels/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
